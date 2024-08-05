@@ -1,3 +1,6 @@
+# Dataset
+[Dataset for Knowledge Graph Reasoning Challenge for Social Issue](https://github.com/KGRC4SI/DataSet/tree/kgrc4si?tab=readme-ov-file) by Shusaku Egami, Takanori Ugai, Swe Nwe Nwe Htun, Kouji Kozaki, Takahiro Kawamura, Ken Fukuda
+
 # 環境設定
 - [Datasetディレクトリ](https://github.com/KGRC4SI/DataSet)をプロジェクト直下に配置  
 - 動画ファイルを[zipファイル](https://kgrc4si.home.kg/Movie/)でダウロード後，解凍してmovie/original以下に配置  
